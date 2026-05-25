@@ -1,6 +1,4 @@
-**Built for the Fantom Code Hackathon**
-
-We built a discreet, automated women's safety and distress-detection application built with Flutter. Unlike traditional SOS apps that require the user to actively open the app and press a visible panic button—which can be prevented by an attacker—Fox-Hound operates using a **Stealth UI** and **Passive Sensor Monitoring** to detect distress automatically.
+We built a discrete, automated women's safety and distress-detection application built with Flutter. Unlike traditional SOS apps that require the user to actively open the app and press a visible panic button—which can be prevented by an attacker—Fox-Hound operates using a **Stealth UI** and **Passive Sensor Monitoring** to detect distress automatically.
 
 ---
 
@@ -43,7 +41,7 @@ To prevent false positives (e.g., dropping your phone on the couch), triggering 
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/fox-hound-safety.git](https://github.com/YourUsername/fox-hound-safety.git)
+   git clone
    cd fox-hound-safety
 2. **Install Dependencies:**
     ```bash
